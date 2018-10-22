@@ -1,0 +1,6 @@
+imports:
+- path: jenkins.jinja
+
+resources:
+- name: jenkins
+  type: jenkins.jinja
